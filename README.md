@@ -1,1 +1,3 @@
-# Homem-aranha
+# Homem-aranha.
+
+Meu primeiro projeto usando javascript.
