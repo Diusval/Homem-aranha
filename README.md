@@ -1,3 +1,3 @@
-# Homem-aranha.
+# Spider-Man.
 
-Meu primeiro projeto usando javascript.
+My first project using javascript.
